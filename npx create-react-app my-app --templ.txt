@@ -1,0 +1,4 @@
+npx create-react-app my-app --template typescript
+npm install typescript@4.9.5
+npm install --force
+npx tsc --init
